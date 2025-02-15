@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @LaSmokkez
 - 👀 I’m interested in making programs. 
 - 🌱 I’m currently learning everything about computers and coding
-- 💞️ I’m looking to collaborate on everything
 - 📫 How to reach me: leave me a message
 - ⚡ Fun fact: I have no idea what I am doing
 
